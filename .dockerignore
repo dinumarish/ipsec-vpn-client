@@ -1,0 +1,8 @@
+README.md
+LICENSE.md
+*.git
+.gitignore
+.dockerignore
+
+*.pyc
+__pycache__
